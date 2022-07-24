@@ -6,7 +6,7 @@ let sum = 0;
 let yes = 0;
 let no = 0;
 let answering = true;
-
+// HI there
 const yesOrNoClass = function () {
   btns.classList.toggle('no');
   btns.classList.toggle('yes');
